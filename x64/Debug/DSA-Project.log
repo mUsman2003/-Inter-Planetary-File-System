@@ -1,0 +1,25 @@
+﻿  DSA-Project.cpp
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(168,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(169,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(248,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(249,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(281,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(282,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(323,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(324,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\Btree.h(378,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\login.h(23,13): warning C4101: 't': unreferenced local variable
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\sha1.h(72,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\sha1.h(95,15): warning C4309: 'argument': truncation of constant value
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\sha1.h(96,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\sha1.h(115,29): warning C4244: '=': conversion from 'SHA1::uint64' to 'SHA1::uint32', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\DSA-Project.cpp(30,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\DSA-Project.cpp(53,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\DSA-Project.cpp(53,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\DSA-Project.cpp(164,26): warning C4244: '=': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\DSA-Project.cpp(329,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\DSA-Project.cpp(696,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\DSA-Project.cpp(697,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\DSA-Project.cpp(767,25): warning C4129: 'o': unrecognized character escape sequence
+D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\bigint.h(350): warning C4172: returning address of local variable or temporary: res
+  DSA-Project.vcxproj -> D:\BS(CS)\3rd Semester\Data Structure Lab\DSA-Project\x64\Debug\DSA-Project.exe
